@@ -1,0 +1,19 @@
+{
+  "name": "rewind.js",
+  "version": "1.0.0",
+  "authors": [
+    "Ben Speakman ~ ben@3sq.re"
+  ],
+  "license": "MIT",
+  "main": [
+    "src/rewind.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.0"
+  },
+  "ignore": [
+    ".*",
+    "*.json",
+    "*.md",
+  ]
+}
